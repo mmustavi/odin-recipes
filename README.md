@@ -1,1 +1,1 @@
-Build a basic recipe website using basic HTML and CSS.
+The Odin Project - Build a basic recipe website using HTML and CSS.
