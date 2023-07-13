@@ -1,15 +1,13 @@
-/* Color palette: https://coolors.co/050517-cf5c36-efc88b-f4e3b2-d3d5d7 */
-
 * {
-    color: #050517;
-    background-color: #F4E3B2;
+    color: #392B22;
+    background-color: #F4DAA1;
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 .heading {
-    color: green;
+    color: #A84F2C;
 }
 
 .subheading {
-    color: red
+    color: #E5962C;
 }
