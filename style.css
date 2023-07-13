@@ -3,17 +3,13 @@
 * {
     color: #050517;
     background-color: #F4E3B2;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
-/* index.html */
+.heading {
+    color: green;
+}
 
-
-
-/* lasagna.html */
-
-
-/* butter_chicken.html */
-
-
-/* pizza.html */
-
+.subheading {
+    color: red
+}
