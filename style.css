@@ -1,15 +1,19 @@
 * {
     color: #392B22;
     background-color: #F4DAA1;
-    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .heading {
     color: #A84F2C;
+    font-family: 'Pacifico', cursive;
+    font-size: 3em;
 }
 
 .subheading {
     color: #E5962C;
+    font-family: 'Playfair Display', serif;
+    font-size: 2em;
 }
 
 .image {
