@@ -11,3 +11,11 @@
 .subheading {
     color: #E5962C;
 }
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 66%;
+    height: auto;
+}
