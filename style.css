@@ -1,24 +1,26 @@
 * {
-    color: #392B22;
-    background-color: #F4DAA1;
-    font-family: 'Open Sans', sans-serif;
-    border: 2px solid red; 
-    
     margin-left: 15%;
     margin-right: 15%;
-
+    
+    color: #51321e;
+    background-color: #fffeef;
+    
+    font-family: serif;
+    font-size: 1rem;
     text-align: center;
+
+    /* border: 2px solid red;  */
 }
 
 .heading {
-    color: #A84F2C;
-    font-family: 'Pacifico', cursive;
-    font-size: 3em;
+    color: black;
+    font-family: sans-serif;
+    font-size: 3rem;
 }
 
 .subheading {
-    color: #E5962C;
-    font-family: 'Playfair Display', serif;
+    color: gray;
+    font-family: sans-serif;
     font-size: 2em;
 }
 
@@ -28,4 +30,11 @@
     margin-right: auto;
     width: 66%;
     height: auto;
+}
+
+.index.all {
+    margin-top: 30%;
+    margin-bottom: 30%;
+    
+    padding: 5%;
 }
