@@ -1,8 +1,8 @@
 * {
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 10%;
+    margin-right: 10%;
     
-    color: #51321e;
+    color: black;
     background-color: #fffeef;
     
     font-family: serif;
@@ -19,22 +19,41 @@
 }
 
 .subheading {
-    color: gray;
+    color: black;
     font-family: sans-serif;
     font-size: 2em;
 }
 
 .image {
+    
     display: block;
+    
     margin-left: auto;
     margin-right: auto;
+    
     width: 66%;
     height: auto;
+
+    border: 6px solid black;
+
 }
 
 .index.all {
-    margin-top: 30%;
-    margin-bottom: 30%;
+
+    margin-top: 25%;
+    margin-bottom: 25%;
     
     padding: 5%;
+
+    border: 8px solid black;
+}
+
+.all {
+
+    margin-top: 10%;
+    
+    padding: 5%;
+
+    border: 8px solid black;
+
 }
